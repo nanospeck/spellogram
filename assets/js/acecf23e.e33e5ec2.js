@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkspellogram=self.webpackChunkspellogram||[]).push([[1903],{1912:l=>{l.exports=JSON.parse('{"blogBasePath":"/spellogram/blog","blogTitle":"Blog","authorsListPath":"/spellogram/blog/authors"}')}}]);
