@@ -19,7 +19,7 @@ const config: Config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'nanospeck', // Usually your GitHub org/user name.
   projectName: 'spellogram', // Usually your repo name.
-  deploymentBranch: 'spellogram', // Usually your repo name.
+  deploymentBranch: 'gh-pages', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
